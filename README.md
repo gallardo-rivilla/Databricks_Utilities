@@ -1,5 +1,6 @@
-# Databricks_Utilities
+# Databricks Utilities
 
+Este repo te ayudará en tu día a día a la hora de trabajar con la herramienta Databricks en PySpark, encontrarás las últimas novedades de todo lo relacionado con Delta Lake, Spark y databricks.
 
 ![Home](https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png)
 
