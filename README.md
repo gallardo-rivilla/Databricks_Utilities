@@ -12,3 +12,8 @@ Este repo te ayudará en tu día a día a la hora de trabajar con la herramienta
 ### `2.Z-ORDERS`
 
 💥 Ajuste del rendimiento de Apache Spark con Z-ORDERS
+
+
+### `3.AQE  OPTIMIZACION
+
+🎯 Optimización del rendimiento de Spark con la ejecución de consultas adaptable
