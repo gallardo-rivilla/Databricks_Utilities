@@ -17,3 +17,7 @@ Este repo te ayudará en tu día a día a la hora de trabajar con la herramienta
 ### `3.AQE  OPTIMIZACION`
 
 🎯 Optimización del rendimiento de Spark con la ejecución de consultas adaptable
+
+### `4.Delta Lake Schema Evolution`
+
+✨ Configura un esquema flexible en tus tablas Delta
