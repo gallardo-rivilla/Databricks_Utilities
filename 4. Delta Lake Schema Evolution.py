@@ -132,7 +132,7 @@ df_nuevo_usuario.write.format("delta").mode("append").save("/tmp/usuarios")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Puedes establecer la `option("mergeSchema", "true")` ara escribir en una tabla Delta y permitir que se agreguen datos con un esquema no coincidente
+# MAGIC Puedes establecer la `option("mergeSchema", "true")` para escribir en una tabla Delta y permitir que se agreguen datos con un esquema no coincidente
 
 # COMMAND ----------
 
