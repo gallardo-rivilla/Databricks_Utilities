@@ -2,7 +2,7 @@
 
 Este repo te ayudará en tu día a día a la hora de trabajar con la herramienta Databricks en PySpark, encontrarás las últimas novedades de todo lo relacionado con Delta Lake, Spark y databricks.
 
-![Home](https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png)
+![Home](https://gallardorivilla.es/wp-content/uploads/2023/02/Databricks-Utilities.png)
 
 
 ### `1.Conversión de Parquet a Delta Lake`
@@ -21,3 +21,7 @@ Este repo te ayudará en tu día a día a la hora de trabajar con la herramienta
 ### `4.Delta Lake Schema Evolution`
 
 ✨ Configura un esquema flexible en tus tablas Delta
+
+### `5.Chat GPT3`
+
+🤖 Play with chat GPT3 in Databricks
