@@ -24,4 +24,9 @@ Este repo te ayudará en tu día a día a la hora de trabajar con la herramienta
 
 ### `5.Chat GPT3`
 
+⚠️ Ejecuta chat GPT3 en un notebook de Databricks
+
+### `6. Migrate Managed Table to Unity Catalog (DEMO)` 
+
+🔥  How Migrate Hive Metastore Table to Unity Catalog
 🤖 Play with chat GPT3 in Databricks
